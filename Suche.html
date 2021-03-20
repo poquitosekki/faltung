@@ -1,0 +1,58 @@
+<!doctype html>
+<html>
+  <head>
+	<meta charset="UTF-8"/>
+    <title>Suchen</title>
+    <style type=text/css>
+	  * { margin: 0; padding: 0; box-sizing: border-box; }
+      body, input, button { font-family: 'Arial Narrow'; font-size: 2rem; }
+	  body {
+	    height: 80vh;
+		width: 100%;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		background-color: #fefaef;
+	  }
+	  h2 { margin-bottom: 1rem; font-weight: 300; }
+	  #boxu {
+		padding: 0.75rem 1.25rem;
+	   }
+	   #sub {
+		background-color: black;
+		color: white;
+		padding: .75rem 1.25rem;
+		border: none;
+		}
+		.container {
+			text-align: center;
+		}
+    </style>
+  </head>
+
+  <body>
+	<div class="container">
+	  <h2>French</h2>
+	  <form id="form">
+      	<input id="boxu" name="boxu" type="text" autofocus>
+		<button id="sub">Go</button>
+	  </form>
+	</div>
+  </body>
+
+  <script>
+  	window.addEventListener("DOMContentLoaded", () => {
+		  document.getElementById("form").addEventListener("submit", (event) => {
+			  event.preventDefault();
+			  const input = document.getElementById("boxu");
+			  const word = input.value;
+			  window.open("https://www.larousse.fr/dictionnaires/francais/" + word);
+			  window.open("https://www.wordreference.com/fren/" + word);
+			  window.open("https://www.linguee.fr/francais-anglais/search?source=auto&query=" + word);
+			  window.open("https://www.forvo.com/word/" + word);
+			  window.open("http://www.google.fr/search?q=" + word + "&num=10&hl=fr&site=imghp&tbm=isch&sout=1&biw=1242&bih=640");
+			  input.value = "";
+		  })
+	  })
+  </script>
+</html>
