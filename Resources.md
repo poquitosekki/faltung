@@ -44,17 +44,11 @@
 * [Openclassrooms](https://openclassrooms.com/fr/courses)
 * [C Programming](http://sdz.tdct.org/sdz/le-langage-c-1.html)
 * [Algorithmique et programmation en CPGE](http://python-liesse.enseeiht.fr/cours/index.html)
+* [Hacking](https://bases-hacking.org/)
 
 ## Youtube
 
-I included just the channels i used for now!
-Topics i am interested in:
-  - Tech (i guess phones and new laptops that comes out)
-  - Linux
-  - Hacking
-  - Programming
-  - Economics & Marketing
-  - Language learning (sp. Asian cultures and languages)
+I included just some of the channels i use!
 
 * [TéléCrayon](https://www.youtube.com/c/TeleCrayon/playlists)
 * [Patrick Moumiet](https://www.youtube.com/channel/UCSLHkXuykiYA2LFwRGMVSqA/videos)
@@ -69,10 +63,6 @@ Topics i am interested in:
 * [Larousse](https://drive.google.com/file/d/16HWzbt4uoXtavsxrBneLmI5qIwqVUpwK/view)
 * [conjugaison.json](https://drive.google.com/file/d/1zjiFQlhEyBGOdBH_HXJwC5_-zOOc7_1i/view)
 * [dictionary.py](https://github.com/alichtman/scripts/blob/master/dictionary.py)
-
-## Sites & Dicts
-
-* [Linguee](linguee.fr)
 
 ## Phrases
 
