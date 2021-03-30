@@ -8,7 +8,7 @@ Sekki :), contact me on instagram if you wanna know more about me `@itzsekki`.
 
 ## Origin
 
-If you really know me you're probably aware that I'm Dogshit at french.
+If you really know me you're probably aware that I'm dogshit at french.
 
 So after a lot of research I stumbled upon Steven Krashen's input hypothesis and it really makes sense at least for me because i acquired English naturally over the year by getting a lot of exposure & input in the language.
 
@@ -17,7 +17,7 @@ There are multiple Methods that are based on the input style :
   * Antimoon
   * Refold
 
-I really don't want to make my self do any of them so i tried to think of a name for what i'm trying to do.
+I do a combination of these 3 methods i guess.
 
 I was reading an article on wikipedia about [Proteinfaltung](https://de.wikipedia.org/wiki/Proteinfaltung) & i think that learning a language is just taking a lot of input over a period of time and just let the information `fold` so your mind create a model for the language similar to the 3D shape in the Protein Folding process.
 
@@ -28,7 +28,7 @@ So enough rambling let's explore the resources.
 ```
 /
 ├── README.md
-├── Suche.html
+├── search.html
 └── resources.md
 ```
 
