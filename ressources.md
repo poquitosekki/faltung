@@ -46,6 +46,10 @@
 * [Algorithmique et programmation en CPGE](http://python-liesse.enseeiht.fr/cours/index.html)
 * [Hacking](https://bases-hacking.org/)
 
+## Programmation
+
+* [Gladir](https://www.gladir.com/CODER/index.htm)
+
 ## Youtube
 
 I included just some of the channels i use!
