@@ -38,6 +38,7 @@
 * [Graded Readers](https://drive.google.com/drive/folders/1jycOzrSNzAYBULn4R2wfaIHgyMzCvK1h)
 * [Webtoons](https://www.webtoons.com/fr/genre)
 * [Parler et vivre en français](https://mek.oszk.hu/04900/04912/04912.pdf)
+* [France Reddit](https://www.reddit.com/r/france/)
 
 ## Learning
 
