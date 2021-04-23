@@ -42,6 +42,7 @@
 
 ## Learning
 
+* [Google Aterlier Numerique](https://learndigital.withgoogle.com/ateliersnumeriques/courses)
 * [Openclassrooms](https://openclassrooms.com/fr/courses)
 * [C Programming](http://sdz.tdct.org/sdz/le-langage-c-1.html)
 * [Algorithmique et programmation en CPGE](http://python-liesse.enseeiht.fr/cours/index.html)
